@@ -1,0 +1,10 @@
+C:\Users\deren\Documents\2 - COMPUTING\8 -\2 - Assignments\assignment 1 - c# game\english_draughts\english_draughts\bin\Debug\english_draughts.exe.config
+C:\Users\deren\Documents\2 - COMPUTING\8 -\2 - Assignments\assignment 1 - c# game\english_draughts\english_draughts\bin\Debug\english_draughts.exe
+C:\Users\deren\Documents\2 - COMPUTING\8 -\2 - Assignments\assignment 1 - c# game\english_draughts\english_draughts\bin\Debug\english_draughts.pdb
+C:\Users\deren\Documents\2 - COMPUTING\8 -\2 - Assignments\assignment 1 - c# game\english_draughts\english_draughts\obj\Debug\english_draughts.csprojResolveAssemblyReference.cache
+C:\Users\deren\Documents\2 - COMPUTING\8 -\2 - Assignments\assignment 1 - c# game\english_draughts\english_draughts\obj\Debug\english_draughts.draughts_frm.resources
+C:\Users\deren\Documents\2 - COMPUTING\8 -\2 - Assignments\assignment 1 - c# game\english_draughts\english_draughts\obj\Debug\english_draughts.Properties.Resources.resources
+C:\Users\deren\Documents\2 - COMPUTING\8 -\2 - Assignments\assignment 1 - c# game\english_draughts\english_draughts\obj\Debug\english_draughts.csproj.GenerateResource.Cache
+C:\Users\deren\Documents\2 - COMPUTING\8 -\2 - Assignments\assignment 1 - c# game\english_draughts\english_draughts\obj\Debug\english_draughts.csproj.CoreCompileInputs.cache
+C:\Users\deren\Documents\2 - COMPUTING\8 -\2 - Assignments\assignment 1 - c# game\english_draughts\english_draughts\obj\Debug\english_draughts.exe
+C:\Users\deren\Documents\2 - COMPUTING\8 -\2 - Assignments\assignment 1 - c# game\english_draughts\english_draughts\obj\Debug\english_draughts.pdb
