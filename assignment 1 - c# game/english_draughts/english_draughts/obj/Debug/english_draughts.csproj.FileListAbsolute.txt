@@ -7,4 +7,4 @@ C:\Users\deren\Documents\2 - COMPUTING\8 -\2 - Assignments\assignment 1 - c# gam
 C:\Users\deren\Documents\2 - COMPUTING\8 -\2 - Assignments\assignment 1 - c# game\english_draughts\english_draughts\obj\Debug\english_draughts.csproj.CoreCompileInputs.cache
 C:\Users\deren\Documents\2 - COMPUTING\8 -\2 - Assignments\assignment 1 - c# game\english_draughts\english_draughts\obj\Debug\english_draughts.exe
 C:\Users\deren\Documents\2 - COMPUTING\8 -\2 - Assignments\assignment 1 - c# game\english_draughts\english_draughts\obj\Debug\english_draughts.pdb
-C:\Users\deren\Documents\2 - COMPUTING\8 -\2 - Assignments\assignment 1 - c# game\english_draughts\english_draughts\obj\Debug\english_draughts.tile.resources
+C:\Users\deren\Documents\2 - COMPUTING\8 -\2 - Assignments\assignment 1 - c# game\english_draughts\english_draughts\obj\Debug\english_draughts.draughts_frm.resources
